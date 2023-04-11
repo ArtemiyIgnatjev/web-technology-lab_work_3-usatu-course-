@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<students>
+    <student>
+        <id>1</id>
+        <name>Жмышенко Валерий Альбертович</name>
+    </student>
+    <student>
+        <id>2</id>
+        <name>Антон Павлович Чехов</name>
+    </student>
+    <student>
+        <id>3</id>
+        <name>Игнатьев Артемий Дмитриевич</name>
+    </student>
+    <student>
+        <id>4</id>
+        <name>Понасенков Евгений Николаевич</name>
+    </student>
+    <student>
+        <id>5</id>
+        <name>Невзоров Александр Глебович</name>
+    </student>
+</students>
